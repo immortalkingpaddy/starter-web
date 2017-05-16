@@ -8,8 +8,8 @@ This project shows the examples of comapring various repositories of the exsisti
 This is for ensurig the comparision purpose of the git hub command.
 
 ## How to Contribute
-Adding new text to the new commands to the exsisting text and ensuring the proper working of different commands.
+Adding instructions to the contribute.
 
 
 ###Copyright
-Adding cpoyright notice
+The basic copyrights being reserved.
