@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Immortalkingpaddy> -- <programming consultant> -- <kadampranav95@gmail.com>
 
 # THANKS
 
