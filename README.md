@@ -12,4 +12,4 @@ Adding instructions to the contribute.
 
 
 ###Copyright
-The basic copyrights being reserved.
+The copyrights being reserved.
